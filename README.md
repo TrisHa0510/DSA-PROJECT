@@ -113,7 +113,7 @@ View All Posts in Browser
 Exit
 Enter your choice: 1
 Enter your message: Hello World!
-✅ Post created successfully!
+✅ Post created successfully!!
 
 text
 
